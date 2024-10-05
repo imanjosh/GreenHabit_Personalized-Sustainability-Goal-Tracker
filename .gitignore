@@ -1,0 +1,5 @@
+# Ignore JetBrains IDEs folder
+.idea/
+
+# Ignore environment files
+.env
